@@ -32,4 +32,3 @@ func ClassifyPrices(prices []int) (int, error) {
 	}
 
 }
-
